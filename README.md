@@ -1,6 +1,6 @@
 # Works without JS
 
-Empower your users to visit your website with disabled JS
+Empower your users with disabled Javascript to experience your website
 
 ## Background
 
