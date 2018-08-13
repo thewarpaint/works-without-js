@@ -8,15 +8,16 @@ Javascript is an awesome technology that has helped us push the web forward to a
 twenty years ago.
 
 Being able to stream high quality video, explore the streets of a city, and
-connect with people from around the world are wonders that would have been unthinkable without the advent of Javascript
+connect with people from around the world in real time are wonders that would have been unthinkable without the advent of Javascript
 and the evolution of the web as a platform.
 
-However, we have relied on it too much for a while now, and assumed it must be used by default, without thinking if it
+However, we have relied on it too much for a while now, and assumed it must be used by default, without even thinking if it
 is a good fit for our use cases.
 
-- Static-content sites like online newspapers and magazines, technical documentation, etc.
+For example, static-content sites like online newspapers and magazines, technical documentation, etc. shouldn't rely on JS
+to display basic text, images, code: plain HTML+CSS can do the job perfectly.
 
-This doesn't mean that your site should be free of Javascript. Instead, you should still be able to provide your core 
+This doesn't mean that your site should be 100% free of Javascript. Instead, you should still be able to provide your core 
 experience
 via graceful degradation or progressive enhancement whenever possible.
 
