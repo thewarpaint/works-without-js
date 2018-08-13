@@ -4,10 +4,11 @@ Empower your users with disabled Javascript to experience your website
 
 ## Background
 
-Javascript is an awesome technology has helped us pushed the web forward to a place we could hardly imagine twenty years ago.
+Javascript is an awesome technology that has helped us push the web forward to a place we could hardly imagine
+twenty years ago.
 
 However, we have relied on it too much for a while now, and assumed it must be used by default, without thinking if it
-is a good fit for our use case.
+is a good fit for our use cases.
 
 - Static-content sites like online newspapers and magazines, technical documentation, etc.
 
@@ -17,7 +18,10 @@ via graceful degradation or progressive enhancement whenever possible.
 
 Some examples of websites that work with JS disabled:
 
+- [Amazon](https://www.amazon.com)
+   - Not the typical example, this must have required a big effort
 - [Hacker News](https://news.ycombinator.com/)
+- [Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
 
 
 ## Badge
@@ -40,3 +44,5 @@ Some examples of websites that work with JS disabled:
 ## Related
 
 - https://en.m.wikipedia.org/wiki/List_of_most_popular_websites
+- https://medium.freecodecamp.org/what-the-web-looks-like-without-javascript-c7eaf09c9983
+- https://sonniesedge.co.uk/posts/a-day-without-javascript
