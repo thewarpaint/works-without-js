@@ -35,8 +35,15 @@ Some examples of websites that work with JS disabled:
 ### HTML
 
 ```html
+<!-- Just the image -->
 <img src="https://img.shields.io/badge/works%20without%20js-true-green.svg"
      alt="Works without JS">
+
+<!-- Image with link to this page -->
+<a href="https://github.com/thewarpaint/works-without-js/">
+   <img src="https://img.shields.io/badge/works%20without%20js-true-green.svg"
+        alt="Works without JS">
+</a>
 ```
 
 ### Markdown
