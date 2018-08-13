@@ -7,6 +7,10 @@ Empower your users with disabled Javascript to experience your website
 Javascript is an awesome technology that has helped us push the web forward to a place we could hardly imagine
 twenty years ago.
 
+Being able to stream high quality video, explore the streets of a city, and
+connect with people from around the world are wonders that would have been unthinkable without the advent of Javascript
+and the evolution of the web as a platform.
+
 However, we have relied on it too much for a while now, and assumed it must be used by default, without thinking if it
 is a good fit for our use cases.
 
