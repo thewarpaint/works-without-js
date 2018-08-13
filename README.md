@@ -15,6 +15,10 @@ This doesn't mean that your site should be free of Javascript. Instead, you shou
 experience
 via graceful degradation or progressive enhancement whenever possible.
 
+Some examples of websites that work with JS disabled:
+
+- [Hacker News](https://news.ycombinator.com/)
+
 
 ## Badge
 
